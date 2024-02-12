@@ -1,0 +1,33 @@
+.see-all{
+    border: none;
+    color: orange;
+    background-color: white;
+}
+#smartphone, #laptop{
+    margin-top: 100px;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#categories{
+    margin-top: 200px;
+    text-align: center;
+}
+#categories img{
+    width: 150px;
+    height: 30px;
+}
+#last{
+    text-align: center;
+}
+.bag, .beauty, .shoes{
+    background-color: rgb(229, 236, 238);
+    border-radius: 10px;
+}
+#plate img{
+    width: 500px;
+}
